@@ -1,4 +1,4 @@
-# Submitter: cncota(Cota, Claudia) 
+
 from goody       import safe_open
 from collections import defaultdict # Use defaultdict for prefix and query
 
