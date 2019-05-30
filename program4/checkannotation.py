@@ -1,4 +1,4 @@
-# Submitter: cncota(Cota, Claudia)
+# Submitter: cncota
 from goody import type_as_str
 import inspect
 from builtins import AssertionError
