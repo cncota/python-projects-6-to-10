@@ -1,4 +1,4 @@
-# Submitter: cncota(Cota, Claudia)
+
 from builtins import int, TypeError
 from goody import type_as_str
 
