@@ -1,4 +1,4 @@
-# Submitter: cncota(Cota, Claudia)
+
 import goody
 from tkinter.test.runtktests import this_dir_path
 
