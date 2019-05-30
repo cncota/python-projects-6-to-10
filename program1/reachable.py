@@ -1,4 +1,4 @@
-# Submitter: cncota(Cota, Claudia)
+
 import goody
 import prompt
 from collections import defaultdict
