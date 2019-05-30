@@ -1,9 +1,6 @@
 ##
 ## ICStunes:  A Music Manager
-##
-## Original version ("InfxTunes") in Scheme by Alex Thornton,
-##      modified 2007 and 2008 by David G. Kay
-## Python version by David G. Kay, 2012
+
 
 from pcollections import pnamedtuple
 #######################################
