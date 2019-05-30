@@ -1,0 +1,2 @@
+Pulsator works, but the outline doesnt display as it grows. The object does get bigger and you can tell by how the balls disapear into it further 
+away from the center even though the display doesnt get bigger.
