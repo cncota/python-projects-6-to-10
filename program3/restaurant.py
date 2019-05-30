@@ -1,7 +1,7 @@
-__author__ = 'dgk'
+
 
 # RESTAURANT COLLECTION PROGRAM
-# ICS 31, UCI, David G. Kay, Fall 2012
+
 
 # Implement Restaurant as a namedtuple, collection as a list
 
